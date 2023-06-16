@@ -1,0 +1,22 @@
+Kémiai elemek felfedezése
+A kémiai elemek kémiailag tovább már nem bontható, egyszerű anyagok. Jelenleg 118 különböző kémiai elemet ismerünk, közülük a Földön 94 található meg a természetben, ezeket természetes kémiai elemeknek hívjuk. Ebben a feladatban a kémiai elemek felfedezésével kapcsolatos adatforrással kell dolgoznia .
+A megoldás során vegye figyelembe a következőket:
+•	A megoldását úgy készítse el, hogy az azonos szerkezetű, de tetszőleges input adatok mellett is helyes eredményt adjon!
+•	Az ékezetmentes azonosítók és az ékezetmentes kiírás is elfogadott!
+1.	A feladat megoldásához hozzon létre konzol alkalmazást (projektet) Kémia azonosítóval!
+2.	Olvassa be az UTF-8 kódolású felfedezesek.csv állományban lévő adatokat és tárolja el egy olyan adatszerkezetben, ami a további feladatok megoldására alkalmas! Az állományban legfeljebb 300 sor lehet! Az állomány soraiban öt adat található a következő sorrendben: felfedezés éve, kémiai elem neve, elem vegyjele, rendszáma, felfedezők nevei.
+Például:
+Év;Név;Vegyjel;Rendszám;Felfedező
+Ókor;Arany;Au;79;Ismeretlen
+Ókor;Ezüst;Ag;47;Ismeretlen
+…
+1825;Alumínium;Al;13;H. C. Oersted
+1826;Bróm;Br;35;A. J. Balard
+…
+Az adatokat pontosvesszővel választottuk el egymástól. Az állomány első sora az adatok fejlécét tartalmazza. Az adatsorok a felfedezés éve szerint időrendben vannak. Az ókorban felfedezett elemek esetén az Év adatnál az „Ókor” található, ezek az elemek az állomány elején találhatók.
+3.	Határozza meg és írja ki a minta szerint, hogy a forrásállományban hány kémiai elem felfedezési adatai találhatók!
+4.	Számolja meg és jelenítse meg a minta szerint az ókorban felfedezett kémiai elem számát!
+5.	Kérjen be a felhasználótól egy vegyjelet! A bekérést mindaddig ismételje, amíg a bevitt adat nem egy vagy kétjegyű, az angol ábécé betűt [A-Z, a-z] tartalmazó karakter/karakterlánc!
+6.	Keresse meg az előző feladatban megadott vegyjelű elemet és írja ki a felfedezéssel kapcsolatos adatokat a minta szerint! A keresés ne legyen érzékeny a kis- és nagybetűkre! Ha a keresés eredménytelen, akkor a „Nincs ilyen elem az adatforrásban!” szöveg jelenjen meg! Ha előző feladatot nem tudta megoldani, akkor dolgozzon az „Sg” vegyjellel!
+7.	Határozza meg és írja ki a képernyőre a minta szerint, hogy hány év volt a leghosszabb időszak két elem felfedezése között az ókor után!
+8.	Jelenítse meg azokat az éveket, amikor több mint három elemet fedeztek fel! Az évszámok után jelenjenek meg a minta szerint a felfedezett elemek száma!

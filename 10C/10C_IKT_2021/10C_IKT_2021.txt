@@ -1,0 +1,6 @@
+1. Tölts fel egy 15 elemű tömböt a [0;100] intervallumból. Írd ki a tömb első és utolsó 5 elemét!
+2. Tölts fel egy 100 elemű tömböt a [0;100] intervallumból. Írd ki, hány olyan szám van a tömbben, melyet egy tőle nagyobb szám követ!
+3. Tölts fel egy 5 elemű tömböt a [0;1000] intervallumból. Vizsgáld meg, hogy a tömb elemei növekvő sorrendben állnak-e, és írd ki az eredményt!
+4. Sorsold ki az ötös lottó nyerőszámait! (5 szám a [1;90] intervallumból
+5. Tölts fel egy 20 elemű tömböt a [0;5] intervallumból. Írd ki, hogy melyik szám szerepel benne a legtöbbször 
+
